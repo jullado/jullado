@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Julladith Klinloy</h1>
-<h3 align="center">A passionate software from Thailand</h3>
+<h3 align="center">A passionate software engineer from Thailand</h3>
 
 # 💫 About Me:
 Software Engineer with 3+ years of experience specializing in backend development, distributed systems and AI-powered platforms. Passionate about learning robust system architectures and building highly efficient solutions
